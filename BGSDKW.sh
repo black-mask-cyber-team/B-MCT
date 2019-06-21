@@ -22,11 +22,11 @@ toilet -f standard "B-MCT" -F gay
 sleep 2
 			      
 echo
-echo $cy "[{•}]=============[About]=============[{•}]"
-echo $i  "[*] AUTHOR    : MAestro and Fiqra ID"
-echo $i  "[*] Team      : BlackMaskCyberTeam"
-echo $i  "[*] Type      : Tools Installer"
-echo $cy "[{•}]=============[About]=============[{•}]"
+echo $cy "[•]=============[About]=============[•]"
+echo $i  "* AUTHOR    : MAestro and Fiqra ID"
+echo $i  "* Team      : BlackMaskCyberTeam"
+echo $i  "* Type      : Tools Installer"
+echo $cy "[•]=============[About]=============[•]"
 echo
 echo
 sleep 5
@@ -56,75 +56,78 @@ toilet -f standard "B-MCT" -F gay
 			      
 sleep 2
 echo
-echo $cy "[{•}]=============[About]=============[{•}]"
-echo $i  "[*] AUTHOR    : Maestro and Fiqra ID"
-echo $i  "[*] Team      : BlackMaskCyberTeam"
-echo $i  "[*] Type      : Tools Installer"
-echo $cy "[{•}]=============[About]=============[{•}]"
+echo $cy "[•]=============[About]=============[•]"
+echo $i  "* AUTHOR    : Maestro and Fiqra ID"
+echo $i  "* Team      : BlackMaskCyberTeam"
+echo $i  "* Type      : Tools Installer"
+echo $cy "[•]=============[About]=============[•]"
 echo
 										
 echo
 sleep 5
-echo $me "[+]=========[Tool MR-B4NGS4D]==========[+]"
-echo $cy "[1]"$bi" Brute Force Facebook"         [+]
+echo $me "[+]=========[TOOLS BlackMaskCyberTeam][+]=========[+]
+echo $cy "[1]"$bi" Brute Force Facebook"         
 sleep 0.1
-echo $cy "[2]"$bi" Hack FB Target"               [+]
+echo $cy "[2]"$bi" Hack FB Target"               
 sleep 0.1
-echo $cy "[3]"$bi" Profil Guard FB"              [+]
+echo $cy "[3]"$bi" Profil Guard FB"              
 sleep 0.1
-echo $cy "[4]"$bi" Auto Report FB"               [+]          
+echo $cy "[4]"$bi" Auto Report FB"                         
 sleep 0.1
-echo $cy "[5]"$bi" Auto Like FB"                 [+]           
+echo $cy "[5]"$bi" Auto Like FB"                            
 sleep 0.1
-echo $cy "[6]"$bi" Auto BOT Komen FB"		 [+]		
+echo $cy "[6]"$bi" Auto BOT Komen FB"		 		
 sleep 0.1
-echo $cy "[7]"$bi" DarkFBv1.6"			 [+]		
+echo $cy "[7]"$bi" DarkFBv1.6 (Tanpa Lisensi)"
 sleep 0.1 
-echo $cy "[8]"$ku" Spam Grab"			 [+]		
+echo $cy "[8]"$ku" Spam Grab"			 		
 sleep 0.1
-echo $cy "[9]"$ku" Spam TOPED"			 [+]										
+echo $cy "[9]"$ku" Spam TOPED"			 										
 sleep 0.1
-echo $cy "[10]"$ku" Spam Call"			 [+]								
+echo $cy "[10]"$ku" Spam Call"			 								
 sleep 0.1
-echo $cy "[11]"$ku" Spam SMS"			 [+]						
+echo $cy "[11]"$ku" Spam SMS"			 						
 sleep 0.1
-echo $cy "[12]"$ku" Spam WA"			 [+]									
+echo $cy "[12]"$ku" Spam WA"			 									
 sleep 0.1 
-echo $cy "[13]"$me" Skull Project"		 [+]										
+echo $cy "[13]"$me" Skull Project"		 										
 sleep 0.1
-echo $cy "[14]"$me" Termux Alice"		 [+]											
+echo $cy "[14]"$me" Termux Alice"		 											
 sleep 0.1
-echo $cy "[15]"$me" Trap Project"		 [+]										
+echo $cy "[15]"$me" Trap Project"		 										
 sleep 0.1
-echo $cy "[16]"$me" Mata Mata"			 [+]									
+echo $cy "[16]"$me" Mata Mata"			 									
 sleep 0.1
-echo $cy "[17]"$i" Sadap CCTV"			 [+]								
+echo $cy "[17]"$i" Sadap CCTV"			 								
 sleep 0.1
-echo $cy "[18]"$i" Install TUANBADUT"		 [+]									
+echo $cy "[18]"$i" Install TUANBADUT"		 									
 sleep 0.1
-echo $cy "[19]"$i" Install Tool B4JINGANv6"	 [+]										
+echo $cy "[19]"$i" Install Tool B4JINGANv6"	 										
 sleep 0.1
-echo $cy "[20]"$i" Install Ratusan Tool"	 [+]										
+echo $cy "[20]"$i" Install Ratusan Tool"	 										
 sleep 0.1
-echo $cy "[21]"$me" Install NetHunter"		 [+]									
+echo $cy "[21]"$me" Install NetHunter"		 								
 sleep 0.1	
-echo $cy "[22]"$me" Install Linux"		 [+]							
+echo $cy "[22]"$me" Install Linux"						
 sleep 0.1	
-echo $cy "[23]"$me" Install Hammer"		 [+]								
+echo $cy "[23]"$me" Install Hammer"										
 sleep 0.1
-echo $cy "[24]"$me" Install Parrot"		 [+]							
+echo $cy "[24]"$me" Install Parrot"									
 sleep 0.1
-echo $cy "[25]"$pu" HULK"			 [+]								
+echo $cy "[25]"$pu" HULK"			 								
 sleep 0.1
-echo $cy "[26]"$pu" Hammer"			 [+]											
+echo $cy "[26]"$pu" Hammer"														
 sleep 0.1	
-echo $cy "[27]"$pu" DDOS"			 [+]											
+echo $cy "[27]"$pu" DDOS"			 											
 sleep 0.1
-echo $cy "[28]"$i" SocialPhish"			 [+]									
+echo $cy "[28]"$i" SocialPhish"												
 sleep 0.1
-echo $cy "[29]"$i" Weeman"			 [+]											
+echo $cy "[29]"$i" Weeman"			 											
 sleep 0.1
-echo $cy "[0]"$me" Keluar "                      [+]					
+echo $cy "[30]"$i" Install Bahan"
+sleep 0.1
+echo $cy "[0]"$me" Keluar "
+sleep 0.1
 echo $me "[+]====================================[+]"
 echo
 echo
@@ -378,6 +381,16 @@ pip2 install beautifulsoup4 $y
 git clone https://github.com/samyoyo/weeman.git
 cd weeman $y
 python2 weeman.py $y
+fi
+
+if [ $pil = 30 ]
+then
+clear
+pkg install php $y
+pkg install mechanize $y
+pkg install requests $y
+pkg install apache $y
+pkg install python python2 $y
 fi
 
 if [ $pil = 0 ]
