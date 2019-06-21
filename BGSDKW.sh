@@ -68,7 +68,7 @@ sleep 5
 echo $me "[+]=========[TOOLS BlackMaskCyberTeam][+]=========[+]"
 echo $cy "[1]"$bi" Brute Force Facebook"         
 sleep 0.1
-echo $cy "[2]"$bi" Hack FB Target"               
+echo $cy "[2]"$bi" Hack FB Target/Massal"               
 sleep 0.1
 echo $cy "[3]"$bi" Profil Guard FB"              
 sleep 0.1
@@ -147,9 +147,9 @@ fi
 if [ $pil = 2 ]
 then
 clear
-git clone https://github.com/zlucifer/troll_project.git
-cd troll_project $y
-sh trol.sh $y
+git clone https://github.com/IqbalDev/fb-brute.git
+cd fb-brute $y
+python2 brute.py $y
 fi
 
 if [ $pil = 3 ]
