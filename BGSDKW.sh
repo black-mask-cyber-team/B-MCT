@@ -65,7 +65,7 @@ echo
 										
 echo
 sleep 5
-echo $me "[+]=========[TOOLS BlackMaskCyberTeam][+]=========[+]
+echo $me "[+]=========[TOOLS BlackMaskCyberTeam][+]=========[+]"
 echo $cy "[1]"$bi" Brute Force Facebook"         
 sleep 0.1
 echo $cy "[2]"$bi" Hack FB Target"               
